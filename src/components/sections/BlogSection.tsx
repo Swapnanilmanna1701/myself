@@ -7,7 +7,7 @@ import BlogList from '../contents/BlogList';
 import Tags from '../contents/Tags';
 import AnimationContainer from '../utils/AnimationContainer';
 import Heading from '../utils/Heading';
-import Searchbar from '../utils/Searchbar';
+import Searchbar from '../utils/searchbar';
 import SectionContainer from '../utils/SectionContainer';
 
 const BlogSection = () => {

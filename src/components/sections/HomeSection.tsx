@@ -1,4 +1,4 @@
-import AbuotMe from '../contents/AbuotMe'
+import AboutMe from '../contents/AboutMe'
 import ContactMe from '../contents/ContactMe'
 import CurrentFavTech from '../contents/CurrentFavTech'
 import CurrentLearnTech from '../contents/CurrentLearnTech'
@@ -18,7 +18,7 @@ const HomeSection = () => {
                 <CurrentFavTech />
                 <CurrentLearnTech />
 
-                <AbuotMe />
+                <AboutMe />
 
                 <Experience />
 
