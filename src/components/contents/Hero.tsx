@@ -10,7 +10,7 @@ const Hero = () => {
                     <span className="text-white">🚀</span>
                 </h3>
                 <h1 className="py-2 text-xl font-bold text-white lg:py-4 sm:text-3xl lg:text-5xl">
-                    Shreyas Sihasane
+                    Swapnanil Manna
                 </h1>
                 <h3 className="text-base text-center lg:text-start lg:text-lg text-white/80">
                     <span className="font-medium text-white">
@@ -37,4 +37,3 @@ const Hero = () => {
 }
 
 export default Hero
-// faceapp, 
